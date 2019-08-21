@@ -12,8 +12,6 @@ int main()
 	MyGraph.CreateGraph("data.json");
 
 	MyGraph.PrintEveryPath();
-
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
